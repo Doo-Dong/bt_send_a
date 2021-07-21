@@ -1,0 +1,2 @@
+rootProject.name = "Bt_send_a"
+include ':app'
